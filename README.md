@@ -13,6 +13,6 @@ I hope to learn how to better craft data visualizations through more thoughtful 
 I also hope to learn how to better utilize different technology mediums that allow me to organize data (such as Tableau Software) and display my work (such as GitHub).
 
 
-#Portfolio
+# Portfolio
 Here's where all of my cool data visualizations will go!
 Check back soon to see my completed projects!
