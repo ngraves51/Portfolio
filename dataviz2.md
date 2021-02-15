@@ -10,10 +10,12 @@ I used a "grid of line charts" option here a it shows the government debt change
 
 
 # This is a different data visualization utilizing the same data set
-Here I used a "grid of column charts" option as it shows the same data, but more "fully" represents the governmnet debt with columns. 
+Here I used a "grid of column charts" option as it shows the same data, but more "fully" represents the government debt with columns. 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/5299761"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+
+I chose to try showing the data a bit differently by using the columns option, as I thought that it may look better than the line charts option.
 
 
 # Main Portfolio Page
