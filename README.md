@@ -19,4 +19,4 @@ Check back soon to see my completed projects!
 
 # General Government Debt
 
-# https://data.oecd.org/chart/6gR7
+ https://data.oecd.org/chart/6gR7 - automatic!
