@@ -18,5 +18,9 @@ Here's where all of my cool data visualizations will go!
 Check back soon to see my completed projects!
 
 
+# Data Visualization Assignment 2: Utilizing Floursih to Make Graphs
+[Link Here](/dataviz2.md)
+
+
 
   
