@@ -18,7 +18,7 @@ Here's where all of my cool data visualizations will go!
 Check back soon to see my completed projects!
 
 
-# Data Visualization Assignment 2: Utilizing Flourish to Make Graphs
+# Data Visualization Assignment 2: Utilizing Flourish to Create Data Visualizations
 [Link Here](/dataviz2.md)
 
 
