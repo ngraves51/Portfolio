@@ -19,4 +19,4 @@ Check back soon to see my completed projects!
 
 # General Government Debt
 
- [GitHub](https://data.oecd.org/chart/6gR7)
+  ![Alt Text](https://data.oecd.org/chart/6gR7)
