@@ -3,8 +3,8 @@
 <iframe src="https://data.oecd.org/chart/6gRf" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6gRf" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2018</a></iframe>
 
 
-# This is my data visualization for "General Government Debt: 1995-2019"
-I used a "grid of line charts" option here a it shows the government debt changes over time for each nation represented in the data set.
+# Data visualization for "General Government Debt: 1995-2019"
+I used a "grid of line charts" option here as it shows how the government debt changes over time for each nation represented in the data set.
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/5299538"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
