@@ -48,17 +48,28 @@ This allowed me to show the data representing all of the States, with their appr
 
 I received the following feedback for this redesign: "Its hard to see the difference between states, can you make their outlines stand out more?"
 
-#  Data Visualization for "Between 2014 and 2018 Internet Crime Complaints Increase"
+
+# Redesigns of Data Visualizations:
+
+##  Data Visualization for "Between 2014 and 2018 Internet Crime Complaints Increase"
 <div class="flourish-embed flourish-chart" data-src="visualisation/5423022"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+While this redesign is rather simple, I think that it accomplishes the changes I wished to make. I think that the line chart portrays the trend up a bit better. Additionally, the narrow range on the Y axis make the differences from 2015 to 2017 a bit easier to see. Additionally, I chose a blue line here to match the aesthetic in the 2018 Crime Report. 
 
-#  Data Visualization for "Internet Crime Victims are Older and Lose More (2018)"
+##  Data Visualization for "Internet Crime Victims are Older and Lose More (2018)"
 <div class="flourish-embed flourish-chart" data-src="visualisation/5422611"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+This redesign is unfortunately not a stacked bar chart, as Flourish made it easier for me to display the data as a "grid of pie charts". Hopefully, I will be able to utilize stacked bar charts to make proportion comparisons in the future as I believe that they are easier to compare the grids of pie charts. That said, I think that this visualization does still bring some weight to the proportions and helps bring the data table to life. Additionally, I think that the title represents the conclusions that are easily made from interpreting the visualization. 
 
-#  Data Visualization for "Internet Crime Victims by State in 2018"
+
+##  Data Visualization for "Internet Crime Victims by State in 2018"
 
 <div class="flourish-embed flourish-map" data-src="visualisation/5359949"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+This visualization was very similar to the wireframe above. However, I made the State borders stand out more and I decided to use a blue gradient as it matches with the theme coloring of the overall report. While I do not think that this visualization does anything revolutionary compared to the original chart, I think that the Choropleth Map is a bit more pleasing to look at and appears more accurate as it includes data for all of the States. 
+
+
+Link to Source Data in 2018 Internet Crime Report
+
 
 
 # Main Portfolio Page
