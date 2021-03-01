@@ -7,6 +7,14 @@
 ![image](https://user-images.githubusercontent.com/78768280/109447892-c818ca80-7a12-11eb-8f17-83c1d266d4c0.png)
 
 
+#  Data Visualization for "Between 2014 and 2018 Internet Crime Complaints Increase"
+<div class="flourish-embed flourish-chart" data-src="visualisation/5423022"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+
+#  Data Visualization for "Internet Crime Victims are Older and Lose More (2018)"
+<div class="flourish-embed flourish-chart" data-src="visualisation/5422611"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+
 #  Data Visualization for "Internet Crime Victims by State in 2018"
 
 <div class="flourish-embed flourish-map" data-src="visualisation/5359949"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
