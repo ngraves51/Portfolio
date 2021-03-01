@@ -19,7 +19,10 @@ Check back soon to see my completed projects!
 
 
 # Data Visualization Assignment 2: Utilizing Flourish to Create Data Visualizations
-[Link Here](/dataviz2.md)
+[Link Here](/dataviz2.md) 
+
+# Data Visualization Assignment 3 and 4: Critique by Design
+[Link Here](/dataviz3.md)
 
 
 
