@@ -25,14 +25,14 @@ This is one of my favorite visualizations in the report because it gives a great
 
 #  Wireframes and Initial Feedback on Redesigns
 
-Viz 1
+##Viz 1
 Here I chose to redesign the first chart as a line graph, as I think this shows changes in trends over time a bit better. Additionally, I greatly reduced the range on the Y axis to make the differences between the years stand out a bit more. 
 ![image](https://user-images.githubusercontent.com/78768280/109447715-4b85ec00-7a12-11eb-8a67-2f4467691ede.png)
 
 I asked an friend for feedback on what I could change, and they told me: "Change the title to: “Between 2014 and 2018 Internet Crime Complaints Increase”.
 Because this is no longer within the last 5 years." 
 
-Viz 2
+##Viz 2
 Here I utilized stacked bar charts to show some of the changes in proportions between the number of victims in each age group, as well as the proportion of total loss for victims in each respective age group. 
 ![image](https://user-images.githubusercontent.com/78768280/109447853-addeec80-7a12-11eb-94ca-de703f29db9b.png)
 
@@ -40,7 +40,7 @@ My feedback friend had this to say regarding this sketch: "When it says total lo
 Explain what total loss is or use better unit labels." 
 
 
-Viz 3
+##Viz 3
 For this wireframe, I began to input the data into Flourish as sketching the whole map would take to long. Flourish helped me to represent the data as a Choropleth Map.
 This allowed me to show the data representing all of the States, with their appropriate "weight" of internet crime victims. 
 
