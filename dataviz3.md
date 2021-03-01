@@ -68,9 +68,9 @@ This redesign is unfortunately not a stacked bar chart, as Flourish made it easi
 This visualization was very similar to the wireframe above. However, I made the State borders stand out more and I decided to use a blue gradient as it matches with the theme coloring of the overall report. While I do not think that this visualization does anything revolutionary compared to the original chart, I think that the Choropleth Map is a bit more pleasing to look at and appears more accurate as it includes data for all of the States. 
 
 
-##Link to Source Data in 2018 Internet Crime Report
+## Link to Source Data in 2018 Internet Crime Report
 
-https://ic3pdfs.blob.core.usgovcloudapi.net/docs/2018_IC3Report.pdf - automatic!
+https://ic3pdfs.blob.core.usgovcloudapi.net/docs/2018_IC3Report.pdf
 
 
 # Main Portfolio Page
