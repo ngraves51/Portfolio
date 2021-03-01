@@ -5,3 +5,5 @@
 
 # Main Portfolio Page
 [Link Here](/README.md)
+
+![GitHub Logo](/images/logo.png)
