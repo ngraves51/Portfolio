@@ -9,24 +9,29 @@ Therefore, I redesigned a data table into a more intuitive data visualization an
 # Original Data Visualizations and Data Tables in the FBI's 2018 Internet Crime Report.
 
 ![image](https://user-images.githubusercontent.com/78768280/109448383-d5828480-7a13-11eb-886d-14f47156d4aa.png)
+
 Overall, this chart gets the job done acceptable. However, I chose to redesign it because I thought that due to the wide range on the Y-axis, it seemed difficult to tell the relative difference in height between some of the middle bars. 
 
 ![image](https://user-images.githubusercontent.com/78768280/109448431-f77c0700-7a13-11eb-9273-33110f2926d9.png)
+
 This is a data table that gets the information across, but looks a bit bland. I thought that a proper data visualization would do a better job of displaying the proportions associated with these age ranges. 
 
 ![image](https://user-images.githubusercontent.com/78768280/109448457-02369c00-7a14-11eb-8535-e3684cfc8558.png)
+
 This is one of my favorite visualizations in the report because it gives a great visual representation of internet crimes across the US. That said, I think that leaving the majority of the States blank can potentially send the wrong message. At first glance, people may think that the blank States have no reports on internet crime at all. 
 
 #  Wireframes and Initial Feedback on Redesigns
 
 Here I chose to redesign the first chart as a line graph, as I think this shows changes in trends over time a bit better. Additionally, I greatly reduced the range on the Y axis to make the differences between the years stand out a bit more. 
 ![image](https://user-images.githubusercontent.com/78768280/109447715-4b85ec00-7a12-11eb-8a67-2f4467691ede.png)
+
 I asked an friend for feedback on what I could change, and they told me: "Change the title to: “Between 2014 and 2018 Internet Crime Complaints Increase”.
 Because this is no longer within the last 5 years." 
 
 
 Here I utilized stacked bar charts to show some of the changes in proportions between the number of victims in each age group, as well as the proportion of total loss for victims in each respective age group. 
 ![image](https://user-images.githubusercontent.com/78768280/109447853-addeec80-7a12-11eb-94ca-de703f29db9b.png)
+
 My feedback friend had this to say regarding this sketch: "When it says total loss, what is that loss? That’s a bit ambiguous. 
 Explain what total loss is or use better unit labels." 
 
@@ -35,6 +40,7 @@ Explain what total loss is or use better unit labels."
 For this wireframe, I began to input the data into Flourish as sketching the whole map would take to long. Flourish helped me to represent the data as a Choropleth Map.
 This allowed me to show the data representing all of the States, with their appropriate "weight" of internet crime victims. 
 ![image](https://user-images.githubusercontent.com/78768280/109447892-c818ca80-7a12-11eb-8f17-83c1d266d4c0.png)
+
 I received the following feedback for this redesign: "Its hard to see the difference between states, can you make their outlines stand out more?"
 
 #  Data Visualization for "Between 2014 and 2018 Internet Crime Complaints Increase"
