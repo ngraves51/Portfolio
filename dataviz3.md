@@ -12,13 +12,16 @@ Therefore, I redesigned a data table into a more intuitive data visualization an
 
 Overall, this chart gets the job done acceptable. However, I chose to redesign it because I thought that due to the wide range on the Y-axis, it seemed difficult to tell the relative difference in height between some of the middle bars. 
 
+
 ![image](https://user-images.githubusercontent.com/78768280/109448431-f77c0700-7a13-11eb-9273-33110f2926d9.png)
 
 This is a data table that gets the information across, but looks a bit bland. I thought that a proper data visualization would do a better job of displaying the proportions associated with these age ranges. 
 
+
 ![image](https://user-images.githubusercontent.com/78768280/109448457-02369c00-7a14-11eb-8535-e3684cfc8558.png)
 
 This is one of my favorite visualizations in the report because it gives a great visual representation of internet crimes across the US. That said, I think that leaving the majority of the States blank can potentially send the wrong message. At first glance, people may think that the blank States have no reports on internet crime at all. 
+
 
 #  Wireframes and Initial Feedback on Redesigns
 
