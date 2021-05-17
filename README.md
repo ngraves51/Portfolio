@@ -24,6 +24,8 @@ Check back soon to see my completed projects!
 # Data Visualization Assignment 3 and 4: Critique by Design
 [Link Here](/dataviz3.md)
 
+# Final Project Part 1
+
 
 
   
