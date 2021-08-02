@@ -32,9 +32,9 @@ This final project will conclude by introducing both practical measures for indi
 <div class="flourish-embed flourish-chart" data-src="visualisation/6894884"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 [Dataset](/final-project/CFPB_CreditReportingComplaints2020.csv)
 
-[Link Here](/final-project/CFPB_CreditReportingComplaints2020.csv)
+Dataset [Link Here](/final-project/CFPB_CreditReportingComplaints2020.csv)
 
-[Link Here](/final-project/FinalProject_NickGraves.md)
+
 
 
 
