@@ -25,6 +25,8 @@ Finally, I will present data visualizations that illustrate [CFPB race and ethni
 This final project will conclude by introducing both practical measures for individual Americans to take to mitigate credit reporting errors, as well as broader policy recommendations that policy makers should consider to reduce this growing epidemic of credit reporting errors. My overall goal is to raise awareness about the propensity of credit reporting errors and to motivate the public to take action to advocate for themselves.
 
 
+# Initial Sketches and Wireframes
+
 
 
 
