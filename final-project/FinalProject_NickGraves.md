@@ -35,27 +35,25 @@ This is an initial sketch to highlight one of the key takeaways that I hope for 
 Here are some initial wireframes that I will refine to develop my data visualizations. First I have a simple line graph that shows the rise in credit report complaints over the last decade. I like that it is easy to understand and gets the point across, but I may add a few things in future revisions. For example, I may add another layer, such as mortgage complaints. This would show a rise in credit reporting complaints and a fall in mortgage complaints over the last 10 years. Additionally, I am not quite sure about what to do with 2021 data. I think that it should be included, as this data is important. Although it is also not a complete year, and the chart makes it look like the number of complaints dropped sharply after 2020. I will conduct user research on this component to see what others may think. 
 <div class="flourish-embed flourish-chart" data-src="visualisation/6895114"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-
 [Dataset Link](https://github.com/ngraves51/Portfolio/blob/main/final-project/CFPB_CreditReportingComplaintsLastDecade.csv)
+
 
 
 Here I looked at different types of consumer complaints in 2020. I used a stacked area chart to emphasize the total amount of complaints as well as their proportions. I think that it demonstrates the comparative weight of the credit reporting complaints well. Although, perhaps a bit too much as all the blue is a bit 'all-encompasing'. I am also interested in seeing what insights user research will show me here. 
 <div class="flourish-embed flourish-chart" data-src="visualisation/6894884"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-
 [Dataset Link](https://github.com/ngraves51/Portfolio/blob/main/final-project/CFPB_CreditReportingComplaints2020.csv)
 
 
-This final visualization looks at CFPB race and ethnicity data that shows the increased likelyhood for people of minority groups to be erroneously made "credit unscoreable" due to exisiting racial disparities in credit reporting. I experimented a few different ways and I used a simple bar chart to focus on total unscored percentage. There are a few different ways that I can do this, so this may change in my final version. I did not want to get too much into the weeds about "credit unscored" vs "credit invisible". However I may need to, to enhance this chart a bit and give a more full view of the issue.  
+
+This final visualization looks at CFPB race and ethnicity data that shows the increased likelyhood for people of minority groups to be erroneously made "credit unscoreable" due to exisiting racial disparities in credit reporting. I experimented a few different ways and I used a simple bar chart to focus on total unscored percentage. There are a few different ways that I can do this, so this may change in my final version. I did not want to get too much into the weeds about "credit unscored" vs "credit invisible". However I may need to, to enhance this chart a bit and give a more full view of the disparity.  
 <div class="flourish-embed flourish-chart" data-src="visualisation/6895244"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-
-
-
 
 [Dataset Link](https://github.com/ngraves51/Portfolio/blob/main/final-project/tabula-201505_cfpb_data-point-credit-invisibles.csv)
 
 
-
+## Methods and Mediums
+To develop this final project I will complete user research to gather feedback on my wireframes and data visualizations.  I will likely go to my friends, family, and colleagues as they all have varying knowledge on credit reporting and should represent a diverse enough sample. Then I will use this feedback to refine my visualizations and to build storyboards that will help me organize my final product. I plan to use Shorthand to showcase my data visualizations and written text. Additionally, I will continue to use Flourish and I may explore Infogram as I continue to develop my data visualizations. 
 
 
 
