@@ -6,7 +6,7 @@ I have decided to focus on using data visualizations to show how credit reportin
 I decided to focus on credit reporting errors for this project as I saw the impact that credit can have on people's financial wellbeing while working with the homeless community. Credit reporting errors can hinder someone from taking out a new mortgage or autoloan, and if granted can cause the loan to be adminisered under less favorable terms. The number of credit reporting complaints have increased every year since the Consumer Financial Protection Bureau (CFPB) began tracking them in 2012. While the CFPB Consumer Complaint Database website does a great job presenting the information about the rise in these credit reporting complaints, I hope to present the data in a slightly different way to help the audience contextualize the information by putting it into perspective. Furthermore, the CFPB Consumer Complaint Database asks the user to put in search criteria in order to present the designated data information and trends, with my data visualizations I hope to hone in on key data points that can help viewers understand the data without having to know what to "search for" on the CFPB complaint database. In addition, I will cover race and ethnicity data from the CFPB people who are "credit invisible" and "credit unscoreable".
 
 
-
+Format: ![Alt Text](https://www.consumerfinance.gov/data-research/research-reports/data-point-credit-invisibles/)
 
 
 
