@@ -31,20 +31,22 @@ This is an initial sketch to highlight one of the key takeaways that I hope for 
 ![IMG_20210802_012939134](https://user-images.githubusercontent.com/78768280/127814210-75156fae-da67-4979-bfc0-c89507e818ae.jpg)
 [Source Link](https://www.ftc.gov/news-events/press-releases/2013/02/ftc-study-five-percent-consumers-had-errors-their-credit-reports)
 
+
+Here are some initial wireframes that I will refine to develop my data visualizations. First I have a simple line graph that shows the rise in credit report complaints over the last decade. I like that it is easy to understand and gets the point across, but I may add a few things in future revisions. For example, I may add another layer, such as mortgage complaints. This would show a rise in credit reporting complaints and a fall in mortgage complaints over the last 10 years. Additionally, I am not quite sure about what to do with 2021 data. I think that it should be included, as this data is important. Although it is also not a complete year, and the chart makes it look like the number of complaints dropped sharply after 2020. I will conduct user research on this component to see what others may think. 
 <div class="flourish-embed flourish-chart" data-src="visualisation/6895114"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
 [Dataset Link](https://github.com/ngraves51/Portfolio/blob/main/final-project/CFPB_CreditReportingComplaintsLastDecade.csv)
 
 
-
+Here I looked at different types of consumer complaints in 2020. I used a stacked area chart to emphasize the total amount of complaints as well as their proportions. I think that it demonstrates the comparative weight of the credit reporting complaints well. Although, perhaps a bit too much as all the blue is a bit 'all-encompasing'. I am also interested in seeing what insights user research will show me here. 
 <div class="flourish-embed flourish-chart" data-src="visualisation/6894884"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
 [Dataset Link](https://github.com/ngraves51/Portfolio/blob/main/final-project/CFPB_CreditReportingComplaints2020.csv)
 
 
-
+This final visualization 
 <div class="flourish-embed flourish-chart" data-src="visualisation/6895244"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
