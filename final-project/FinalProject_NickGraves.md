@@ -27,12 +27,14 @@ This final project will conclude by introducing both practical measures for indi
 
 # Initial Sketches and Wireframes
 
-
+<div class="flourish-embed flourish-chart" data-src="visualisation/6895114"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+Dataset [Link Here](/final-project/CFPB_CreditReportingComplaintsLastDecade.csv)
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/6894884"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
 Dataset [Link Here](/final-project/CFPB_CreditReportingComplaints2020.csv)
+
 
 
 
