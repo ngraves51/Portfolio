@@ -12,7 +12,14 @@ I decided to focus on credit reporting errors for this project as I saw the impa
 
 Over the last decade, credit reporting error complaints have skyrocketed, setting thousands of Americans' financial wellbeing at risk. 
 * __Conflict__
-* 
+
+Many Americans view the credit reporting system as a fair and balanced way to gain access to the credit system in the United States. People believe that that if they pay off their bills as scheduled and on time, then they will generally get good credit scores. However, CFPB data from the last decade, and 2020 in particular, show that erroneous practices within credit reporting have plagued more Americans every year. The pandemic caused a spike in credit reporting errors that affected many Americans who likely throught that the credit reporting system was fair and just. This rise in credit reporting errors is spurred by credit bureau practices that prioritze selling more financial data overall, rather than more accurate data. 
+
+* __Data and Trends__
+
+[The Federal Trade Commission has estimated that one in five Americans have an error on their credit report which can lead to less favorable loan terms, higher interest rates, or denial of credit.](https://www.ftc.gov/news-events/press-releases/2013/02/ftc-study-five-percent-consumers-had-errors-their-credit-reports)
+However, the FTC reported that statistic in 2013, when the overall number of credit reporting complaints was 19 times less then the number of credit reporting clamplaints logged in 2020. Here, I will use CFPB statistics 
+
 
 
 
