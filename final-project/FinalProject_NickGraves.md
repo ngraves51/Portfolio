@@ -40,7 +40,7 @@ Dataset [Link Here](/final-project/CFPB_CreditReportingComplaints2020.csv)
 
 
 
-
+<div class="flourish-embed flourish-chart" data-src="visualisation/6895244"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
 
