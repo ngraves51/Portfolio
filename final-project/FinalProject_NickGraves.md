@@ -8,7 +8,11 @@ I decided to focus on credit reporting errors for this project as I saw the impa
 
 ##  Story Arc
 
+* _Set Up_
 
+Over the last decade, credit reporting error complaints have skyrocketed, setting thousands of Americans' financial wellbeing at risk. 
+* _Conflict_
+* 
 
 
 
