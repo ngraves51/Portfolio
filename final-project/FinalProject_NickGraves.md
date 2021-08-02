@@ -46,7 +46,7 @@ Here I looked at different types of consumer complaints in 2020. I used a stacke
 [Dataset Link](https://github.com/ngraves51/Portfolio/blob/main/final-project/CFPB_CreditReportingComplaints2020.csv)
 
 
-This final visualization 
+This final visualization looks at CFPB race and ethnicity data that shows the increased likelyhood for people of minority groups to be erroneously made "credit unscoreable" due to exisiting racial disparities in credit reporting. I experimented a few different ways and I used a simple bar chart to focus on total unscored percentage. There are a few different ways that I can do this, so this may change in my final version. I did not want to get too much into the weeds about "credit unscored" vs "credit invisible". However I may need to, to enhance this chart a bit and give a more full view of the issue.  
 <div class="flourish-embed flourish-chart" data-src="visualisation/6895244"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
