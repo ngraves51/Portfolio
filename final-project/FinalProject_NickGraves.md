@@ -27,6 +27,8 @@ This final project will conclude by introducing both practical measures for indi
 
 # Initial Sketches and Wireframes
 
+![IMG_20210802_012939134](https://user-images.githubusercontent.com/78768280/127814210-75156fae-da67-4979-bfc0-c89507e818ae.jpg)
+
 <div class="flourish-embed flourish-chart" data-src="visualisation/6895114"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 Dataset [Link Here](/final-project/CFPB_CreditReportingComplaintsLastDecade.csv)
