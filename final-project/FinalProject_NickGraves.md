@@ -26,8 +26,10 @@ This final project will conclude by introducing both practical measures for indi
 
 
 # Initial Sketches and Wireframes
+This is an initial sketch to highlight one of the key takeaways that I hope for the audience to grasp. That credit reporting errors affect more than most would expect. I like that this vizualization is intuitive and does not need to be complicated to make the point. Also, one other point, this represents the number of Americans that have an error on their credit report, not the number of Americans that KNOW they have an error on their credit report. 
 
 ![IMG_20210802_012939134](https://user-images.githubusercontent.com/78768280/127814210-75156fae-da67-4979-bfc0-c89507e818ae.jpg)
+[Source Link](https://www.ftc.gov/news-events/press-releases/2013/02/ftc-study-five-percent-consumers-had-errors-their-credit-reports)
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/6895114"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
