@@ -17,7 +17,7 @@ Many Americans view the credit reporting system as a fair and balanced way to ga
 
 * __Data and Trends__
 
-[The Federal Trade Commission has estimated that one in five Americans have an error on their credit report which can lead to less favorable loan terms, higher interest rates, or denial of credit.](https://www.ftc.gov/news-events/press-releases/2013/02/ftc-study-five-percent-consumers-had-errors-their-credit-reports)
+[The Federal Trade Commission has estimated that one in five Americans have an error on their credit report](https://www.ftc.gov/news-events/press-releases/2013/02/ftc-study-five-percent-consumers-had-errors-their-credit-reports) which can lead to less favorable loan terms, higher interest rates, or denial of credit.
 However, the FTC reported that statistic in 2013, when the overall number of credit reporting complaints was 19 times less then the number of credit reporting clamplaints logged in 2020. Here, I will use [data from the CFPB Consumer Complaint Database](https://www.consumerfinance.gov/data-research/consumer-complaints/) to highlight the growing trends in consumer credit reporting complaints over the last few years, as well focusing on credit reporting complaints during 2020. 
 
 
