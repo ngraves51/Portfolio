@@ -34,7 +34,9 @@ Improvement | Is there anything that you would change?
 
 
 ## Interview script
-Interview script available [here](/final-project/InterviewScript.md).
+Interview script available [Link Here](/final-project/FinalProject_Part1_NickGraves.md)
+
+[here](/final-project/InterviewScript.md).
 
 
 ## Interview findings
