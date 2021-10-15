@@ -38,7 +38,7 @@ Interview script available [here](https://ngraves51.github.io/Portfolio/final-pr
 
 
 ## Interview findings
-Interview findings available [here](/final-project/InterviewFindings.md). 
+Interview findings available [here](https://ngraves51.github.io/Portfolio/final-project/InterviewFindings.html).
 
 
 
