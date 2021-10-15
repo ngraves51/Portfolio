@@ -38,7 +38,7 @@ Interview script available here.
 
 
 ## Interview findings
-Interview findings available here. 
+Interview findings available [here](/final-project/InterviewFindings.md). 
 
 
 
