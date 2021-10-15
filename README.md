@@ -3,7 +3,7 @@ This is my public portfolio for the Telling Stories with Data class at CMU!
 
 # About me
 Hello! I'm a student in the Telling Stories with Data course.
-My name is Nick Graves and my pronouns are he, him, and his.
+My name is Nick Graves, and my pronouns are he, him, and his.
 I am in the Master of Science in Public Policy & Management Program at Carnegie Mellon University.
 I chose this program to refine my policy analysis and data analytics by learning new skills, such as data visualization.
 After I complete my graduate degree, I plan to work for the federal government as an analyst.
