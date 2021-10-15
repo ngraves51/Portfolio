@@ -14,8 +14,9 @@ I also hope to learn how to better utilize different technology mediums that all
 
 
 # Portfolio
-Here's where all of my cool data visualizations will go!
-Check back soon to see my completed projects!
+This is my portfolio of cool data visualizations!
+I hope you enjoy seeing my skills' progression as I put them to the test with different class projects. 
+The Final Project is where I put everything I learned together; make sure to check it out!
 
 
 # Data Visualization Assignment 2: Utilizing Flourish to Create Data Visualizations
