@@ -61,6 +61,7 @@ To develop this final project, I will complete user research to gather feedback 
 
 
 **[Final Project Part 2](https://ngraves51.github.io/Portfolio/final-project/FinalProject_Part2_NickGraves.html).**
+
 **[Final Project Part 3](https://ngraves51.github.io/Portfolio/final-project/FinalProject_Part3_NickGraves.html).**
 
 # Main Portfolio Page
