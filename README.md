@@ -27,7 +27,7 @@ Check back soon to see my completed projects!
 # Final Project Part 1
 [Link Here](/final-project/FinalProject_Part1_NickGraves.md)
 
-# Final Project Part 3
+# Final Project Part 2
 [Link Here](/final-project/FinalProject_Part2_NickGraves.md)
 
 
