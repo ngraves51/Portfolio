@@ -19,7 +19,7 @@ I collected a sample of 3 people to view the draft of my final project with the 
 Audience | Description
 ---------|------------
 Target Audience | People living in the United States of America, with a credit history and at least an average degree of education (High School Graduate). Preferably between 18 and 55 years of age, who have an interest in personal finance. 
-Sample | This sample was limited to 3 Americans of different ages: a female architect in mid 20s, a female journalist in early 30s, and a male software programmer in mid 40s. All of them have some knowledge about the US Credit Reporting System and data visualizations. All of them have at least a Bachelors degree. I approached these individuals to interview because they fit the target audience criteria and they were readily availible. 
+Sample | This sample was limited to 3 Americans of different ages: a female architect in mid 20s, a female journalist in early 30s, and a male software engineer in mid 40s. All of them have some knowledge about the US Credit Reporting System and data visualizations. All of them have at least a Bachelors degree. I approached these individuals to interview because they fit the target audience criteria and they were readily availible. 
 
 
 **Research Goals**
