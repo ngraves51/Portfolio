@@ -24,11 +24,12 @@ Discuss the purpose of the interview. " My goal today is to get feedback on a pr
 ## Wrap-Up
 
 "Thank you so much for your help and your time. Do you have any questions for me at this time?"
-
-  
  
    
+  
    
    
+          
+          
 # Final Project Part 2
 [Link Here](/final-project/FinalProject_Part2_NickGraves.md)
