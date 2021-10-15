@@ -3,8 +3,8 @@
 I decided to redesign a few of the data visualizations in the FBI's 2018 Internet Crime Report.
 I think that many federal agencies do a great job of gathering data on topics that benefit the public interest, such a data on internet crimes.
 However, sometimes this data is not presented in the most accessible manner for the audience.
-In the 2018 Internet Crime Report, plenty of demographic data related to internet crimes is presented accurately, however much of this data is presented in data tables.
-Therefore, I redesigned a data table into a more intuitive data visualization and I also redesigned a few of the charts presented in the report.
+In the 2018 Internet Crime Report, plenty of demographic data related to internet crimes is presented accurately. However, much of this data is presented in data tables.
+Therefore, I redesigned a data table into a more intuitive data visualization, and I also redesigned a few of the charts presented in the report.
 
 # Original Data Visualizations and Data Tables in the FBI's 2018 Internet Crime Report.
 
