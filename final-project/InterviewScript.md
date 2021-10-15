@@ -32,6 +32,6 @@ Discuss the purpose of the interview. " My goal today is to get feedback on a pr
           
           
 # Final Project Part 2
-[Link Here]((https://ngraves51.github.io/Portfolio/final-project/FinalProject_Part2_NickGraves.html).
+[Link Here](https://ngraves51.github.io/Portfolio/final-project/FinalProject_Part2_NickGraves.html).
 
 
