@@ -31,6 +31,7 @@ The Final Project is where I put everything I learned together; make sure to che
 # Final Project Part 2
 [Link Here](/final-project/FinalProject_Part2_NickGraves.md)
 
-
+# Final Project Part 3
+[Link Here](/final-project/FinalProject_Part3_NickGraves.md)
 
   
