@@ -70,7 +70,7 @@ This visualization was very similar to the wireframe above. However, I made the 
 
 ## Link to Source Data in 2018 Internet Crime Report
 
-https://ic3pdfs.blob.core.usgovcloudapi.net/docs/2018_IC3Report.pdf
+[Link here](https://ic3pdfs.blob.core.usgovcloudapi.net/docs/2018_IC3Report.pdf)
 
 
 # Main Portfolio Page
