@@ -24,6 +24,7 @@ However, the FTC reported that statistic in 2013, when the overall number of cre
 Finally, I will present data visualizations that illustrate [CFPB race and ethnicity data](https://www.consumerfinance.gov/data-research/research-reports/data-point-credit-invisibles/) that show the increased likelihood for people of minority groups to be erroneously made "credit insvisible" or credit unscorable" due to existing racial disparities in credit reporting. 
 
 * __Resolution__
+
 This final project will conclude by introducing both practical measures for individual Americans to take to mitigate credit reporting errors, as well as broader policy recommendations that policymakers should consider to reduce this growing epidemic of credit reporting errors. My overall goal is to raise awareness about the propensity of credit reporting errors and to motivate the public to take action to protect and advocate for themselves.
 
 
