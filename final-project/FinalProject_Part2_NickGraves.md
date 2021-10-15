@@ -47,6 +47,3 @@ Interview findings available [here](/final-project/InterviewFindings.md).
 
 
 
-
-# Main Portfolio Page
-[Link Here](https://ngraves51.github.io/Portfolio/)
