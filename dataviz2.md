@@ -14,9 +14,9 @@ Here I used the "grid of column charts" option as it shows the same data in a si
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/5299761"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-I thought that perhaps if I tried utlizing a similar method to the previous visualization, that I could show the data in a way that did not take away what was working well in "grid of line charts" option. I think that the columns do a better job of conveying a "fullness" to the Debt-to-GDP ratio for each nation at each respective year. I chose purple as I thought that it was a neutral color, although I actually think I prefer the red color from the orginal visualization for the purposes of representing this data. 
+I thought that perhaps if I tried utilizing a similar method to the previous visualization, that I could show the data in a way that did not take away what was working well in the "grid of line charts" option. I think that the columns do a better job of conveying a "fullness" to the Debt-to-GDP ratio for each nation at each respective year. I chose purple as I thought that it was a neutral color, although I actually think I prefer the red color from the original visualization for the purposes of representing this data. 
 
-One other negative aspect of the columns version of this data visualization is that the columns add a lot of color overall, so in this case there is a lot of purple in the third data visualization. This would be one reason to choose the line charts version, as the line charts allow for more white space which contrasts well with the red lines in each respective chart. In future data visualizations I will pay more consideration to better utilizing white space in this way. 
+One other negative aspect of the columns version of this data visualization is that the columns add a lot of color overall, so in this case, there is a lot of purple in the third data visualization. This would be one reason to choose the line charts version, as the line charts allow for more white space which contrasts well with the red lines in each respective chart. In future data visualizations, I will pay more consideration to better utilizing white space in this way. 
 
 
 
