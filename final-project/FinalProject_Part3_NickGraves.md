@@ -4,8 +4,7 @@ Welcome to Part 3 of my Final Project. This is the final part where I wrapped ev
 
 **[Final Project Part 1](https://ngraves51.github.io/Portfolio/final-project/FinalProject_Part1_NickGraves.html).**
 
-## Final Project Part 2
-[Link Here](https://ngraves51.github.io/Portfolio/final-project/FinalProject_Part2_NickGraves.html).
+**[Final Project Part 2](https://ngraves51.github.io/Portfolio/final-project/FinalProject_Part2_NickGraves.html).**
 
 
 
