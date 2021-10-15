@@ -9,6 +9,17 @@ Please feel free to check my progress and view this initial draft!
 [Credit Reporting Crisis Draft](https://carnegiemellon.shorthandstories.com/credit-reporting-crisis-draft/index.html)
 
 
+## User Research and Interviews
+I collected a sample of 3 people to view the draft of my final project with the purpose of conducting user research. 
+
+## User Research Protocol
+
+**Target Audience**
+
+Audience | Description
+---------|------------
+Target Audience | sdoihfosdihfsdoaigdflkgndflkbndfobhdfosdaknfsdlgndfoghdfobuhdoifngldsfngdsfkfkfk
+Sample | oasnflsjnafdsjfaiprugerngdajgnlkansdflksndgjdfnbgidfusgbiosudfgidfbg
 
 
 
