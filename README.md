@@ -25,7 +25,7 @@ Check back soon to see my completed projects!
 [Link Here](/dataviz3.md)
 
 # Final Project Part 1
-[Link Here](/final-project/FinalProject_NickGraves.md)
+[Link Here](/final-project/FinalProject_Part1_NickGraves.md)
 
 
   
