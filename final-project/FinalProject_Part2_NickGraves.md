@@ -44,7 +44,9 @@ Interview findings available [here](https://ngraves51.github.io/Portfolio/final-
 ## Planned Changes from User Research
 Overall, the user research interviews were very helpful. It seemed that, as a whole, the shorthand webpage seemed to be an effective medium for presenting the project. I think that I need to include a bit more background information about what credit reporting errors are and how they happen. I can see from my user research that I had seemed to have assumed such background knowledge for my shorthand presentation. Additionally, I will try to find more information about the types of credit reporting errors that are more common, so that the audience can know what to be looking for in their credit reports. Finally, I will try to add more headings to the paragraphs that I had prepared to make them more digestible.
 
+**[Final Project Part 1](https://ngraves51.github.io/Portfolio/final-project/FinalProject_Part1_NickGraves.html).**
 
+**[Final Project Part 3](https://ngraves51.github.io/Portfolio/final-project/FinalProject_Part3_NickGraves.html).**
 
 # Main Portfolio Page
 [Link Here](https://ngraves51.github.io/Portfolio/)
