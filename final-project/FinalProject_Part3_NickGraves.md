@@ -7,7 +7,9 @@ Welcome to Part 3 of my Final Project. This is the final part where I wrapped ev
 **[Final Project Part 2](https://ngraves51.github.io/Portfolio/final-project/FinalProject_Part2_NickGraves.html).**
 
 
+## Updates from Part 2
 
+Overall, in Part 2 I build a fairly complete draft to use as my final deliverable. I took the user research feedback I received and I focused on implimenting the insights that I learned from the interviews. 
 
 
 
