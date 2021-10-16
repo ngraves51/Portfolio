@@ -28,10 +28,8 @@ The audience I identified for my final deliverable did not change very much from
 ## The Final Deliverable
 
 Thank you for joining me on my data visualization journey. I hope you enjoy the final deliverable that I made for this project. 
+
 Please click [here](https://carnegiemellon.shorthandstories.com/credit-reporting-crisis/index.html).
-
-
-
 
 
 
@@ -54,7 +52,6 @@ Mierzwinski, Ed, Mike Litt, Lucy Baker, and Gideon Weissman. “Consumers In Per
 Rodriguez Valladares, Mayra. “America’s Consumer Credit Reporting System Desperately Needs Reform.” Forbes. Forbes Magazine, December 12, 2020. https://www.forbes.com/sites/mayrarodriguezvalladares/2020/12/12/americas-consumer-credit-reporting-system-desperately-needs-reform/?sh=718089142d58. 
 
 Smith, Kelly Anne. “How To Fix Covid-19 Related Credit Report Errors.” Forbes. Forbes Magazine, April 5, 2021. https://www.forbes.com/advisor/credit-score/how-to-fix-credit-report-errors/. 
-
 
 
 # Main Portfolio Page
