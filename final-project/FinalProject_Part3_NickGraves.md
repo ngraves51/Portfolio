@@ -30,9 +30,6 @@ The audience I identified for my final deliverable did not change very much from
 Please click [here](https://carnegiemellon.shorthandstories.com/credit-reporting-crisis/index.html) to see the shorthand presentation that I made as the final deliverable for this project. 
 
 
-Thank you for joining me on my data visualization journey. I hope you enjoyed my final deliverable and watching my skills develop as I learned more throughout the class.
-
-
 
 
 
@@ -58,7 +55,8 @@ Rodriguez Valladares, Mayra. “America’s Consumer Credit Reporting System Des
 Smith, Kelly Anne. “How To Fix Covid-19 Related Credit Report Errors.” Forbes. Forbes Magazine, April 5, 2021. https://www.forbes.com/advisor/credit-score/how-to-fix-credit-report-errors/. 
 
 
-
+##
+Thank you for joining me on my data visualization journey. I hope you enjoyed my final deliverable and watching my skills develop as I learned more throughout the class.
 
 # Main Portfolio Page
 [Link Here](https://ngraves51.github.io/Portfolio/)
