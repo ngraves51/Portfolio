@@ -24,6 +24,12 @@ Please click [here](https://carnegiemellon.shorthandstories.com/credit-reporting
 
 
 
+## References
+Brevoort, Kenneth P., Philipp Grimm, and Michelle Kambara. “Data Point: Credit Invisibles.” Consumer Financial Protection Bureau: Research &amp; Reports. The CFPB Office of Research, May 1, 2015. https://www.consumerfinance.gov/data-research/research-reports/data-point-credit-invisibles/. 
+Carrns, Ann. “More Consumers Complain About Errors on Their Credit Reports.” The New York Times. The New York Times, February 19, 2021. https://www.nytimes.com/2021/02/19/your-money/credit-report-errors.html. 
+
+
+
 
 
 
