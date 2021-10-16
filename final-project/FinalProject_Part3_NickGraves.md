@@ -11,6 +11,13 @@ Welcome to Part 3 of my Final Project. This is the final part where I wrapped ev
 
 Overall, in Part 2 I build a fairly complete draft to use as my final deliverable. I took the user research feedback I received and I focused on implimenting the insights that I learned from the interviews. 
 
+First I wanted to clear up some confusion I witnessed about credit reporting errors by providing some more background information. I added a few sentences to the second slide section that explained what credit reporting errors are and why they occur. I also added a sentence about why credit reports matter and how they impact auto loans, mortgages, and even jobs. Additionally, I added some information about common credit report errors people experience (this was also a suggestion from the user research). I was unable to find conclusive data on the occurances of specific credit reporting errors. However, in the fourth slide section I added more types of common errors for consumers to look out for, and I linked to a resource webpage published by the CFPB that listed out many credit reporting errors for consumers to look out for. 
+
+Next, I went through the entire presentation and checked it for grammer and flow. I edited some of the text that I wrote that accompanies my data visualizations. I also added section titles for my data visualizations to help break them up into more digestable chunks. I also created formal citations for all of my references at this point. 
+
+Then I worked a bit on fine tuning some of the visual aspects of my shorthand presentation. Specifically, on the second slide section. I realize that with the "text over media"
+
+
 
 
 
