@@ -55,7 +55,7 @@ Rodriguez Valladares, Mayra. “America’s Consumer Credit Reporting System Des
 Smith, Kelly Anne. “How To Fix Covid-19 Related Credit Report Errors.” Forbes. Forbes Magazine, April 5, 2021. https://www.forbes.com/advisor/credit-score/how-to-fix-credit-report-errors/. 
 
 
-##
+##   
 Thank you for joining me on my data visualization journey. I hope you enjoyed my final deliverable and watching my skills develop as I learned more throughout the class.
 
 # Main Portfolio Page
