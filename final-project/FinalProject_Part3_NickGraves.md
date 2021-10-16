@@ -7,9 +7,16 @@ Welcome to Part 3 of my Final Project. This is the final part where I wrapped ev
 **[Final Project Part 2](https://ngraves51.github.io/Portfolio/final-project/FinalProject_Part2_NickGraves.html).**
 
 
+
+
+
+
+
 ## The Final Deliverable
 
 Please click [here](https://carnegiemellon.shorthandstories.com/credit-reporting-crisis/index.html) to see the shorthand presentation that I made as the final deliverable for this project. 
+
+
 
 
 
